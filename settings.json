@@ -1,0 +1,10 @@
+{
+    "delay": 2,
+    "addresses": [
+        {
+            "name": "Test name",
+            "id": "Test address"
+        }
+    ],
+    "webhook": "Discord webhook"
+}
